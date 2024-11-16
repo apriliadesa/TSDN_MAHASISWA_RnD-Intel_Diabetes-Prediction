@@ -51,4 +51,4 @@ Sistem ini diimplementasikan dalam bentuk **web prototype** menggunakan **Stream
    python -m streamlit run streamlit_data.py
    ```
 ## Demo
-Link Streamlit : 
+Link Streamlit : https://dashboard-prediksidiabetes-rekomendasikesehatan-tsdn24rndintel.streamlit.app/
