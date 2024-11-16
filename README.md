@@ -28,7 +28,7 @@ Model ini telah diuji dan menunjukkan performa yang sangat baik, dengan akurasi 
 
 ## Rekomendasi Sistem
 
-Hasil prediksi yang diperoleh dari model ini digunakan untuk memberikan rekomendasi makanan yang sesuai dengan kondisi kesehatan individu tersebut. 
+Hasil prediksi yang diperoleh dari model ini digunakan untuk memberikan rekomendasi kesehatan yang sesuai dengan kondisi kesehatan individu tersebut. 
 
 ## Deployment
 
