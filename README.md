@@ -2,6 +2,10 @@
 
 ## Originalitas
  Repository berikut merupakan hasil dari Team RnD Intel dan Original dibuat oleh team ini.
+ - Muhammad Fauzan Ariyatmoko
+ - Musthofa Al-Jawi
+ - Aprilia Dela Safitri
+ - Nisrina Anindya
 
 ## Latar Belakang
 
@@ -38,7 +42,7 @@ Sistem ini diimplementasikan dalam bentuk **web prototype** menggunakan **Stream
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/apriliadesa/TSDN_MAHASISWA_RnD-Intel_Diabetes-Prediction.git
 
 2. Instal dependensi yang diperlukan:
    ```
@@ -48,7 +52,7 @@ Sistem ini diimplementasikan dalam bentuk **web prototype** menggunakan **Stream
    ```
 3. Jalankan aplikasi Streamlit:
    ```
-   python -m streamlit run streamlit_data.py
+   python -m streamlit run dashboardprediksi.py
    ```
 ## Demo
 Link Streamlit : https://dashboard-prediksidiabetes-rekomendasikesehatan-tsdn24rndintel.streamlit.app/
